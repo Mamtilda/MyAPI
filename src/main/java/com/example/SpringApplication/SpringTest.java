@@ -30,7 +30,7 @@ public class SpringTest {
 
         return "<html lang=\"en\">\n" +
                 "<head>\n" +
-                "  <title>Taylored Valeting & Detailing</title>\n" +
+                "  <title>Hello World!</title>\n" +
                 "  <meta charset=\"utf-8\">\n" +
                 "  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n" +
                 "  <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\">\n" +
