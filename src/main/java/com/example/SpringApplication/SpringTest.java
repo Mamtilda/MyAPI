@@ -248,11 +248,9 @@ public class SpringTest {
                 "</nav>\n" +
                 "\n" +
                 "<div class=\"jumbotron text-center\" id=\"Home\">\n" +
-                "  <h1>Hello World!</h1>";
+                "  <h1>Hello World!</h1>" +
+                " <center><h2 style='color:white;'>This is just a simple API test.</center></h1>";
 
     }
-    @GetMapping("/load")
-    public String load() {
-        return "<html><body><h1>This is a simple test to see if the page loads correctly!</h1></body></html>";
-    }
+    
 }
